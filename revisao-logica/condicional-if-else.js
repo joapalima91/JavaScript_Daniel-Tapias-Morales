@@ -1,4 +1,4 @@
-var idade = 30;
+var idade = 27;
 var paisPresentes = false;
 var comprouBilhete = true;
 const podeViajar=(idade >= 18 || paisPresentes) && comprouBilhete;
@@ -13,6 +13,7 @@ if(!comprouBilhete){
         console.log(msgMaiorIdade)
    }
 
+// media de notas
 
 var n1 = 0;
 var n2 = 7;
